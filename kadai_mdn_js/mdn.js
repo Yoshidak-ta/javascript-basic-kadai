@@ -1,4 +1,4 @@
-const isDay = new Date("November 5, 2023");
+const isDay = new Date();
 const day = isDay.getDate();
 const year = isDay.getFullYear();
 const month = isDay.getMonth() + 1;
